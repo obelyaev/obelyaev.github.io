@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Oleg Belyaev"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Current positions
-======
 Lecturer,
 [Department of Theoretical and Applied Linguistics](http://tipl.philol.msu.ru/),
 Faculty of Philology,
