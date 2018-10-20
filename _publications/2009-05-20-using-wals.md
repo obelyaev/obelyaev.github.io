@@ -1,5 +1,5 @@
 ---
-title: "(with Vladimir N. Polyakov, Valery D. Solovyev & Søren Wichmann) Using WALS and Jazyki Mira"
+title: "Using WALS and Jazyki Mira (with Vladimir N. Polyakov, Valery D. Solovyev & Søren Wichmann)"
 collection: publications
 permalink: /publication/2009-05-20-using-wals
 excerpt: 'In this paper, we compare the performance of the WALS and Jazyki Mira databases with respect 
